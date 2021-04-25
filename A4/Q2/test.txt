@@ -1,0 +1,17 @@
+count_up    10
+
+count_down  10
+
+p   2.14    47
+p   3.27    34
+a   2.23    55
+a   2.39    32
+
+print_all
+
+print_sort
+
+nth 4    I
+nth 4    S
+
+gcd 24    18

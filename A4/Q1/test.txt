@@ -1,0 +1,14 @@
+p   5.55   555
+p   1.11    111
+p   3.33    333
+a   6.66    666
+a   4.44    444
+a   2.22    222
+
+print_list
+
+sort_list
+
+rem_first
+
+print_list
