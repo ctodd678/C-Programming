@@ -3,9 +3,6 @@
 #include <stdlib.h>
 #include "header.h"
 
-/* Connor Todd - CIS 2500 Assignment 4 */
-/*              Question 1a            */
-
 int main(int argc, char *argv[]){
 
   FILE        *fp;
